@@ -1,0 +1,29 @@
+.cards{
+display: flex;
+justify-content: center;
+justify-content: space-evenly;
+margin-top: 100px;
+flex-wrap: wrap;
+}
+
+@media only screen and (max-width: 600px) {
+    .card img {
+        width: 40vw important
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .card img {
+        width: 40vw important
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .card img {
+        width: 40vw important
+    }
+}
+
+.card-body{
+    text-align: center;
+}
